@@ -3,15 +3,15 @@
     "name": "Sonic Wave",
     "author": "LSunix",
     "creators": ["cyclic"],
-    "Completed by": "Buckle",
-    "video": "https://youtu.be/NBIQ719UPx0?si=i6mDHYrJFkiHN3Wh",
+    "Verifier": "Sunix",
+    "": "https://www.youtube.com/watch?v=GpXTwPgweAk",
     "percentToQualify": 56,
     "records": [
         {
-            "user": "",
-            "link": "",
-            "percent": ,
-            "hz": 
+            "user": "Buckle",
+            "link": "https://youtu.be/NBIQ719UPx0?si=i6mDHYrJFkiHN3Wh",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
