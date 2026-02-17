@@ -1,12 +1,18 @@
 {
     "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "Sakupen Hell",
+    "author": "Trusta",
+    "creators": ["Noobas"],
+    "verifier": "Trusta",
+    "verification": "https://www.youtube.com/watch?v=svyOjwLCErg",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "Buckle",
+            "link": "https://youtu.be/jjVt5cVHP2Q?si=a8iuDQgpBnB43f04",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
