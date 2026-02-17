@@ -120,6 +120,12 @@ verified.push({
         };
     });
 
-    // Sort by total score
-    return [res.sort((a, b) => b.total - a.total), errs];
+    // Remove verifier-only users (no completions or progress)
+const filtered = res.filter(
+    (entry) => entry.completed.length > 0 || entry.progressed.length > 0,
+);
+
+// Sort by total score
+return [filtered.sort((a, b) => b.total - a.total), errs];
+
 }
