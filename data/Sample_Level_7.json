@@ -1,0 +1,18 @@
+{
+    "id": 81148582,
+    "name": "Sweater Weather",
+    "author": "VelYT",
+    "creators": ["VelYT"],
+    "verifier": "xfire",
+    "verification": "https://youtu.be/y3Kk0ZvDqUM",
+    "percentToQualify": 56,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Aquatic",
+            "link": "https://youtu.be/OLKpkety3WY?si=XiWNrnvuxYmFEdx3&t=1475",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
