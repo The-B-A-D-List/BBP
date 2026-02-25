@@ -115,8 +115,7 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
+                        If a level is completed on deathlink with another user, it will count for both and will be added as such
                     <p>
                         New Rules will be added as needed
                     </p>
