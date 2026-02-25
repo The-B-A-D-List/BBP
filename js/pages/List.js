@@ -115,9 +115,6 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        If a level is completed on deathlink with another user, it will count for both and will be added as such
-                    </p>
-                    <p>
                         New Rules will be added as needed
                     </p>
                 </div>
