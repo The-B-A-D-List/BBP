@@ -1,0 +1,18 @@
+{
+    "id": 71728635,
+    "name": "Helios",
+    "author": "Artu",
+    "creators": ["Artu, Marwec"],
+    "verifier": "Artu",
+    "verification": "https://youtu.be/_33VOfBOBBY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "gamecheese",
+            "link": "https://youtu.be/feb7FCt13bE?si=lp0OFMSZk7aBhH7D",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
