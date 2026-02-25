@@ -1,0 +1,18 @@
+{
+    "id": 73005068,
+    "name": "sunburn",
+    "author": "pocke",
+    "creators": ["pocke"],
+    "verifier": "cxn",
+    "verification": "https://youtu.be/YQc5YhhFUoM",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "gamecheese",
+            "link": "https://youtu.be/lKH8517pbI0?si=yQ3nMll2Zv96eRm6",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
