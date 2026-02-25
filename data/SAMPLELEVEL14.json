@@ -1,0 +1,18 @@
+{
+    "id": 59899374,
+    "name": "Prismatic Haze",
+    "author": "Cirtrax",
+    "creators": ["Gizbro, Moosh"],
+    "verifier": "Moosh",
+    "verification": "https://youtu.be/VSw1c3L8szo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "gamecheese",
+            "link": "https://youtu.be/RS5ZFcuaw3I",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
