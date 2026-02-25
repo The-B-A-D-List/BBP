@@ -1,0 +1,18 @@
+{
+    "id": 74924716,
+    "name": "GLISTEN",
+    "author": "Squizaaard",
+    "creators": ["Onvil, ovdfo, RatQuesadilla, Squizaaard, xyuns"],
+    "verifier": "Solus",
+    "verification": "https://youtu.be/xL_0WkFxKeM",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Mintium",
+            "link": "https://youtu.be/2iMJUJP8p0Y?si=8AdjvhG_3_wyfmIE",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
