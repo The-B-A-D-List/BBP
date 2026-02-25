@@ -1,18 +1,18 @@
 {
-    "id": 8147005,
-    "name": "Down Bass",
-    "author": "Spectruh",
-    "creators": ["WoodedGold, Exterys Valyrie"],
-    "verifier": "Kevelia",
+    "id": 74028410,
+    "name": "EXPLICIT",
+    "author": "saturn",
+    "creators": ["Renn241"],
+    "verifier": "saturn",
     "verification": "https://www.youtube.com/watch?v=glrcPc_ObAQ",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Buckle",
-            "link": "https://youtu.be/CdCEuF64J6Y?si=Mg8Qse98bYxg3iKg",
+            "user": "Mintium",
+            "link": "https://www.youtube.com/watch?v=6TMHBWgp4Kw,
             "percent": 100,
-            "hz": 240
+            "hz": 480
         }
     ]
 }
