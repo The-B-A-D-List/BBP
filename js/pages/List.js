@@ -97,7 +97,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 480fps)
                     </p>
                     <p>
                         Levels may be completed on a startpos copy from zero percent
