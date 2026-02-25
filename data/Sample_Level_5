@@ -1,0 +1,18 @@
+{
+    "id": 8147005,
+    "name": "Down Bass",
+    "author": "Spectruh",
+    "creators": ["WoodedGold, Exterys Valyrie"],
+    "verifier": "Kevelia",
+    "verification": "https://www.youtube.com/watch?v=glrcPc_ObAQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Buckle",
+            "link": "https://youtu.be/CdCEuF64J6Y?si=Mg8Qse98bYxg3iKg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
