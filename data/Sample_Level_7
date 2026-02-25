@@ -1,0 +1,18 @@
+{
+    "id": 76670086,
+    "name": "phantasmagoria",
+    "author": "whlt",
+    "creators": ["whlt"],
+    "verifier": "whlt",
+    "verification": "https://youtu.be/NO4kwO_e7mg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Mintium",
+            "link": "https://www.youtube.com/watch?v=zhFFOetbLkY",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
