@@ -1,0 +1,18 @@
+{
+    "id": 77114615,
+    "name": "doradura",
+    "author": "IvashkaUA",
+    "creators": ["IvashkaUA"],
+    "verifier": "Diamond",
+    "verification": "https://youtu.be/Ucfuoj0nVaU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "KuratheGuy",
+            "link": "https://www.youtube.com/watch?v=e9pryyEGPS8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
