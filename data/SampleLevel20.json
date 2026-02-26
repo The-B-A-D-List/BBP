@@ -1,0 +1,18 @@
+{
+    "id": 71728635,
+    "name": "Mind Control",
+    "author": "Deadlox",
+    "creators": ["Deadlox, para, Metalface221, xSmokes, 2cool, Endlevel, Enixy, ewop, Goobfrudla, silver"],
+    "verifier": "xander",
+    "verification": "https://youtu.be/GLvDwC0odvk",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "KuratheGuy",
+            "link": "https://www.youtube.com/watch?v=Mamrn2GGczk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
