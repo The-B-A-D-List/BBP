@@ -1,0 +1,18 @@
+{
+    "id": 94410319,
+    "name": "Ouroboros Startpos 2",
+    "author": "foody",
+    "creators": ["foody"],
+    "verifier": "foody",
+    "verification": "https://youtu.be/YIsJeBI2c_c",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "hexy",
+            "link": "https://youtu.be/QTzFjtaxubs?si=F3GPet85Ah9XlgoA",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
