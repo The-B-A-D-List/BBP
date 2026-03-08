@@ -1,0 +1,18 @@
+{
+    "id": 75206202,
+    "name": "Firework",
+    "author": "Trick",
+    "creators": ["lillium, 00Zero, Konsi, Realvet, Desumari, Itami, Lekvid, Buragoz, Crouley, Orte, Hantein"],
+    "verifier": "Trick",
+    "verification": "https://youtu.be/QBe5x2o9v2w",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "CookedPugs",
+            "link": "https://youtu.be/v77WaXCTK2Y?t=187&si=-nmGsS4j862CuO_t",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
