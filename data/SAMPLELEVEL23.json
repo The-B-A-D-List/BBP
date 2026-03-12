@@ -1,0 +1,18 @@
+{
+    "id": 112412828,
+    "name": "Clarity",
+    "author": "Hypno",
+    "creators": ["Hypno"],
+    "verifier": "Hypno",
+    "verification": "https://youtu.be/N2s11DsgL64",
+    "percentToQualify": 56,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "thecatastronaut",
+            "link": "https://youtu.be/eHrJmUm9930?si=PBo7kvoJLE1D85Kk",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
