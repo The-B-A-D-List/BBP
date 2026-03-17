@@ -1,0 +1,18 @@
+{
+    "id": 113775365,
+    "name": "ROCKY ROAD",
+    "author": "arclight",
+    "creators": ["arclight, cdyzz"],
+    "verifier": "rain",
+    "verification": "https://youtu.be/uQqB3cVh_AM",
+    "percentToQualify": 56,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "swificat",
+            "link": "https://youtu.be/sKhWy4ftNrs?si=j9Ub2XZ1iR1la6FK",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
