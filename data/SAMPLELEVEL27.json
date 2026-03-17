@@ -1,0 +1,18 @@
+{
+    "id": 63433024,
+    "name": "reverence",
+    "author": "Woom",
+    "creators": ["MrClyde, BySelling, victorinoxX, Hyperblastz, Expy, Elegy, Naimnaro, Woom, Eots, ViralDL, Toastedlord, Lipz, Cybertron, BlasterRobotz, Enzore"],
+    "verifier": "swiborg",
+    "verification": "https://youtu.be/eCKcTUulyRU",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Asterion",
+            "link": "https://youtu.be/fJMeYkfQOyA?si=hI9lxET-66FHdOXO",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
