@@ -8,5 +8,10 @@
         "role": "admin",
         "name": "List Admin",
         "link": "https://www.youtube.com/@bucklehr"
+    },
+  {
+        "role": "Moderator",
+        "name": "List Mod",
+        "link": "https://www.youtube.com/@WvernnGD"
     }
 ]
