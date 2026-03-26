@@ -1,0 +1,18 @@
+{
+    "id": 96083028,
+    "name": "Midnight",
+    "author": "MadisonYuko",
+    "creators": ["MadisonYuko"],
+    "verifier": "nei",
+    "verification": "https://youtu.be/NhkN_a9cNi8?si=P0_8ZEfVvi0omfHt",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Cookedpugs",
+            "link": "https://youtu.be/Gl5wQ-jqMqA?si=qGsUNHGs4rx5tU3m&t=126",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
