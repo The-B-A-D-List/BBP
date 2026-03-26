@@ -1,0 +1,18 @@
+{
+    "id": 108141323,
+    "name": "DISSONANCE",
+    "author": "ivyteal",
+    "creators": ["ivyteal"],
+    "verifier": "zSquidKnight",
+    "verification": "https://youtu.be/IfFser-f9c0?si=vv2PBnDHfjC8M8kc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Cookedpugs",
+            "link": "https://youtu.be/n7kJ2TQW1MY?si=Yy32XRTSBwMGI8Iv&t=27",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
