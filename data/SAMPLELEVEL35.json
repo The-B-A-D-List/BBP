@@ -1,0 +1,19 @@
+
+{
+    "id": 72744364,
+    "name": "Hard Machine",
+    "author": "Komp",
+    "creators": ["nikroplays, viri, Komp"],
+    "verifier": "Varium",
+    "verification": "https://youtu.be/z3grmsqAaas?si=93BhIAo2qoqJ_9he",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Cookedpugs",
+            "link": "https://youtu.be/BoGbcUHAAO0?si=5qGnUE9z-ivTIu7E&t=865",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
