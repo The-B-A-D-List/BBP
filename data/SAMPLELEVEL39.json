@@ -1,0 +1,18 @@
+{
+    "id": 75286957,
+    "name": "Shukketsu",
+    "author": "MadisonYuko",
+    "creators": ["arekushi14, MadisonYuko, Zentraa, Gablor, Duke"],
+    "verifier": "Baeru",
+    "verification": "https://youtu.be/nkG4hKJIz2g?si=WnkL6L4QNe81-SDP",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Cookedpugs",
+            "link": "https://youtu.be/DaZhaVFgR2M?si=PnEOvDIcH8eaKwG1",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
