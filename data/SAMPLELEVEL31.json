@@ -1,0 +1,18 @@
+{
+    "id": 71912451,
+    "name": "RUST",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "Keir",
+    "verification": "https://youtu.be/mEXGlrNMyR4?si=t9vBhgxH5l0UbXvr",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Cookedpugs",
+            "link": "https://youtu.be/4NYeAk68o04?si=YK8mpANl-SMj7d66",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
