@@ -1,0 +1,18 @@
+{
+    "id": 94156085,
+    "name": "shimmer",
+    "author": "Amplitron",
+    "creators": ["Amplitron"],
+    "verifier": "Amplitron",
+    "verification": "https://youtu.be/J89j-_l7ezg?si=BKLP7q7751l2CPD3",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Cookedpugs",
+            "link": "https://youtu.be/Jy8mZeWQSPI?si=iwdPrLYKKLns-pc7",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
