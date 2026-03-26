@@ -1,0 +1,18 @@
+{
+    "id": 57600307,
+    "name": "Cogniton",
+    "author": "Endlevel",
+    "creators": ["benji0808, Endlevel"],
+    "verifier": "nswish",
+    "verification": "https://youtu.be/enl0GOyskPs?si=PdDKBeV--K0js-3o",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Cookedpugs",
+            "link": "https://youtu.be/ch4ioq9IZGA?si=lepBgaF0FmGCtzPy&t=122",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
