@@ -1,0 +1,18 @@
+{
+    "id": 88611404,
+    "name": "NEUTRA",
+    "author": "Jenkins",
+    "creators": ["Jenkins, Marwec, ILRELL"],
+    "verifier": "Aeonair",
+    "verification": "https://youtu.be/0fNBFwNS1qg?si=n-TDEl0ejOsOiI5N",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Cookedpugs",
+            "link": "https://youtu.be/vQxhORH1Xaw?si=swgAajyVQ-M9uqBG&t=267",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
