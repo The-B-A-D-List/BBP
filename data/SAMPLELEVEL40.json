@@ -1,0 +1,18 @@
+{
+    "id": 71025973,
+    "name": "Oblivion",
+    "author": "dice88",
+    "creators": ["benji8080, Goobfrudla, eth, silver"],
+    "verifier": "dice88",
+    "verification": "https://youtu.be/ZcmDAm50BB0?si=Oe06o70NbDQU3Wpn",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Cookedpugs",
+            "link": "https://youtu.be/ObzLg6ryq-I?si=rnEI1Hqv55gSjLdq&t=149",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
