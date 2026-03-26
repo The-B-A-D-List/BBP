@@ -1,0 +1,18 @@
+{
+    "id": 88136707,
+    "name": "Sky Shredder",
+    "author": "Dorvict",
+    "creators": ["Dorvict"],
+    "verifier": "Dorvict",
+    "verification": "https://youtu.be/Z-69-4RKRgk?si=byiiLZOGzL7gF6oa",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Cookedpugs",
+            "link": "https://youtu.be/OuDaK2Ny5bM?si=mJMGUicIcSE8GPvv&t=180",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
