@@ -1,0 +1,18 @@
+{
+    "id": 83340498,
+    "name": "PROTOFLICKER",
+    "author": "ewop",
+    "creators": ["Jenkins, VARSE, boop, Deadlox, lucas, ZeroSR, Cdpre, xSmokes, para, Scrumpy"],
+    "verifiers": "swiborg, redd",
+    "verification": "https://youtu.be/H99XCPT-VQU?si=QK6_JtiKZIDTxbqa",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "gamecheese",
+            "link": "https://youtu.be/aK5zenmcBwQ?is=4CRfgulz-a_cHCrV",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
