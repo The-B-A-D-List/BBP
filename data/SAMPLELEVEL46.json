@@ -3,7 +3,7 @@
     "name": "PROTOFLICKER",
     "author": "ewop",
     "creators": ["Jenkins, VARSE, boop, Deadlox, lucas, ZeroSR, Cdpre, xSmokes, para, Scrumpy"],
-    "verifiers": "swiborg, redd",
+    "verifier": "swiborg, redd",
     "verification": "https://youtu.be/H99XCPT-VQU?si=QK6_JtiKZIDTxbqa",
     "percentToQualify": "100",
     "password": "Free To Copy",
