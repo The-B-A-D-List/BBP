@@ -1,0 +1,18 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "Ggboy",
+    "creators": ["Ggboy"],
+    "verifier": "Riot",
+    "verification": "https://www.youtube.com/watch?v=vGV4j8C66JY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Wvernn",
+            "link": "https://youtu.be/PgRC7anGq7g?si=Hplko0VUPx3HSiFQ&t=841",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
