@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=WkfFZVSzEIQ",
             "percent": 100,
             "hz": 360  
+        },
+        {
+            "user": "Clone",
+            "link": "https://www.youtube.com/watch?v=ds2dpnZvsio",
+            "percent": 100,
+            "hz": 120  
         }
     ]
 }
