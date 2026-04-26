@@ -1,0 +1,18 @@
+{
+    "id": 62214792,
+    "name": "Azurite",
+    "author": "Sillow",
+    "creators": ["Sillow"],
+    "verifier": "Sillow",
+    "verification": "https://youtu.be/yQRMhKruCPw?si=FHBVHgJ3uxV5POGI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "Clone",
+            "link": "https://www.youtube.com/watch?v=UfL1qgfYs0o",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
