@@ -1,0 +1,18 @@
+{
+    "id": 31462941,
+    "name": "Erebus",
+    "author": "BoldStep",
+    "creators": ["ILRELL, Rustam"],
+    "verifier": "BoldStep",
+    "verification": "https://youtu.be/8csWDx6C2YI?si=Hm7-SJz6SjHmICGa",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Buckle",
+            "link": "https://youtu.be/4iH__ulgxQU?si=g2Sur0PRlgyGPsZR&t=206",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
