@@ -1,0 +1,18 @@
+{
+    "id": 60516506,
+    "name": "Torgue",
+    "author": "Ryder",
+    "creators": ["Lipz, Pokechatt, Enixy, Sxap, Shoot, para, Ryder, Shocksidian, Majkomar, Unigeny, Crystal PG, Escetity, Loogiah, Vlacc, YakobNugget"],
+    "verifier": "Floppy",
+    "verification": "https://youtu.be/GDKqYSlKHVE?si=bZDdZXUG6YZ4Bj2Z",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "thecatastronaut",
+            "link": "https://youtu.be/IjsD26ODhNk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
