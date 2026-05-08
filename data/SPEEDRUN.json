@@ -1,0 +1,18 @@
+{
+    "id": 58507437,
+    "name": "SPEEDRUN",
+    "author": "Kaito",
+    "creators": ["Kaito"],
+    "verifier": "Cinci",
+    "verification": "https://youtu.be/Z0Ge4G1oPmk?si=mdfq65Ngb-DHlt_Y",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "gamecheese",
+            "link": "https://youtu.be/jTOVVmk4wtY?is=uDGrA1M-GwLxWB46",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
