@@ -1,0 +1,18 @@
+{
+    "id": 107341811,
+    "name": "Prismatic",
+    "author": "CatGeo",
+    "creators": ["CatGeo"],
+    "verifier": "CatGeo",
+    "verification": "https://youtu.be/rw3afgiDQjw?si=4LjdpZn935o7nrr2",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "swificat",
+            "link": "https://youtu.be/QGRY3n5W8yk?si=gLIFZFQ7a_7VjDGy",
+            "percent": 100,
+            "hz": 240
+         }
+    ]
+}
